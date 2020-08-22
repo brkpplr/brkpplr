@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on my own blog at brunokoppel.com
+- 🌱 I’m currently learning Web developing and Electronic Circuits
+- 🎛 I also make Electronic music  --> [Spotify](https://open.spotify.com/artist/5XK2KlEZ95yiEOqE8BcbgE?si=O6LJDkVWTc-bZ6QWzuuuGA)
 
 <!--
 **BrunoKoppel/brunokoppel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
