@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi there 👋, Name is Bruno Köppel
+
 - 🔭 I'm currently working on:
-  - school projects.
-  - websites with the hack.diversity Alumni.
-  - CLI checklist [TCLI](https://github.com/BrunoKoppel/tcli)
+  - some School projects.
+  - Websites with the hack.diversity Alumni.
+  - CLI checklist [(TCLI)](https://github.com/BrunoKoppel/tcli)
   - The Python Code Vault [(PCV)](https://github.com/BrunoKoppel/pcv)
 
 - 🌱 currently focusing on shifting towards Robotics, working with microprocessors, learning electric cirtuits, and getting back into my dear loved C/C++ as well as Python.
