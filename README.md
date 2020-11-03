@@ -6,9 +6,10 @@
   - CLI checklist [(TCLI)](https://github.com/BrunoKoppel/tcli)
   - The Python Code Vault [(PCV)](https://github.com/BrunoKoppel/pcv)
 
-- 🌱 currently focusing on shifting towards Robotics, working with microprocessors, learning electric cirtuits, and getting back into my dear loved C/C++, and learning from the simplicity and "to the point" attitude of Python.
+- 🌱 currently focusing on shifting towards Robotics thanks to an internship with Boston Dynamics for this Summer 2021! 
+  - working with microprocessors, building electric cirtuits, mastering applied and abstract math, and getting back into my dear beloved C.
 
-- 🎛 I also make Electronic music, when I'm not coding. Check it out 😄 --> [Spotify](https://open.spotify.com/artist/5XK2KlEZ95yiEOqE8BcbgE?si=O6LJDkVWTc-bZ6QWzuuuGA) 
+- 🎛 I also make Electronic music when I'm not coding. Check it out 😄 --> [Spotify](https://open.spotify.com/artist/5XK2KlEZ95yiEOqE8BcbgE?si=O6LJDkVWTc-bZ6QWzuuuGA) 
 
 - ⚡ Fun fact: I wrote my first hello world at 14 years old using C language in Dev-C++ IDE on a Ubuntu Linux system, during my middle school years.
 
