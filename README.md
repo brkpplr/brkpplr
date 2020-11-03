@@ -14,7 +14,7 @@
 
 #### Experience
 - 3 years of C
-- 1 year of C++
+- 2 year of C++
 - 1/2 years of Web Development with js and ts (React, Gatsby, GraphQl, Express, Nx)
 - 1/2 years of Python
 
