@@ -5,7 +5,6 @@
   - Websites with the hack.diversity Alumni and my own [personal domain](http://brunokoppel.com).
   - Getting my [Robot dog](https://github.com/BrunoKoppel/RPi-RobotDog) to walk 😭
   - CLI checklist [(TCLI)](https://github.com/BrunoKoppel/tcli)
-  [//] <> - The Python Code Vault [(PCV)](https://github.com/BrunoKoppel/pcv)
 
 - 🌱 currently focusing on shifting towards Robotics thanks to an internship with Boston Dynamics for this Summer 2021! 
   - working with microprocessors, building electric cirtuits, mastering applied and abstract math, and getting back into my dear beloved C.
