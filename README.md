@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on:
   - School work.
-  - Websites with the hack.diversity Alumni and my own personal domains.
+  - Websites with the hack.diversity Alumni and my own [personal domain](http://brunokoppel.com).
   - Getting my [Robot dog](https://github.com/BrunoKoppel/RPi-RobotDog) to walk 😭
   - CLI checklist [(TCLI)](https://github.com/BrunoKoppel/tcli)
   [//] <> - The Python Code Vault [(PCV)](https://github.com/BrunoKoppel/pcv)
