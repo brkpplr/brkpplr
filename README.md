@@ -1,20 +1,19 @@
 ### Hi there 👋, Name is Bruno Köppel
 
-- 🔭 Programmer, currently working on:
-  - School work, finishing up my degree.
-  - Websites with the hack.diversity Alumni and my own [personal domain](http://brunokoppel.com).
-  - Getting my [Robot dog](https://github.com/BrunoKoppel/RPi-RobotDog) to walk 😭
-  - The Thareos CLI Checklist [(TCLI)](https://github.com/BrunoKoppel/tcli)
+- 🔭 Programmer, currently working on a whole lot of things, too many to keep track of.
 
-- 🎛 Electronic Musician --> [Spotify](https://open.spotify.com/artist/6BdSmIpqVam6MashlNUOoK?si=f8mVigR-TQaATPULzTWL-w) 
+- 👯 Need a tester, a C/C++ specialist, maybe just a buddy for your open source? Well, I'm open to help and collaborate.
 
-- ⚡ Fun fact: I wrote my first hello world at 14 years old using C language in Dev-C++ IDE on a Ubuntu Linux system, during my middle school years.
+- 🎛 I make electronic music -> [Spotify](https://open.spotify.com/artist/6BdSmIpqVam6MashlNUOoK?si=f8mVigR-TQaATPULzTWL-w) 
 
+- ⚡ I wrote my first hello world at 14 years old using C language in Dev-C++ IDE on a Ubuntu Linux system, during my middle school years.
+
+- 📫 You can reach me out at my email in this github page, or at my twitter, and LinkedIn. I don't know why you would but you never know.
 #### Experience
 - 3 years of C
 - 2 year of C++
-- 1/2 years of Web Development with js and ts (React, Gatsby, GraphQl, Express, Nx)
-- 1/2 years of Python
+- 1 years of Web Development with js and ts (React, Gatsby, GraphQl, Express, Nx)
+- 1 years of Python
 
 <!--
 **BrunoKoppel/brunokoppel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
