@@ -4,11 +4,12 @@
 
 - 👯 Need a tester, a C/C++ specialist, maybe just a buddy for your open source? Well, I'm open to help and collaborate.
 
+- 📫 You can reach me out at my email in this github page, or at my twitter, and LinkedIn. I don't know why you would but you never know.
+
 - 🎛 I make electronic music -> [Spotify](https://open.spotify.com/artist/6BdSmIpqVam6MashlNUOoK?si=f8mVigR-TQaATPULzTWL-w) 
 
 - ⚡ I wrote my first hello world at 14 years old using C language in Dev-C++ IDE on a Ubuntu Linux system, during my middle school years.
 
-- 📫 You can reach me out at my email in this github page, or at my twitter, and LinkedIn. I don't know why you would but you never know.
 #### Experience
 - 3 years of C
 - 2 year of C++
