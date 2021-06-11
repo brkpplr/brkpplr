@@ -2,7 +2,7 @@
 
 - ⚡ Fun Fact: I wrote my first program when I was 14 years old. It was afterschool in my hometown of Cuba where I wrote my first hello world program in C in the Dev-C++ IDE on the computer lab, another fun fact is that they were running ubuntu distros instead of windows :o 
 
-- 🔭 I am a Programmer, sometimes a tinkerer. Currently working on a whole lot of projects which you can see in more detail at my [website](http://brunokoppel.com), looking for cool things to build and explore.
+- 🔭 I am a Programmer, sometimes a tinkerer. Currently working on a whole lot of projects which you can see in more detail at my [website](http://brunokoppel.com), always looking for cool things to build and explore.
 
 - 🎛 I make electronic music -> [Spotify](https://open.spotify.com/artist/6BdSmIpqVam6MashlNUOoK?si=f8mVigR-TQaATPULzTWL-w) 
 
