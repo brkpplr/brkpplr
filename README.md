@@ -1,14 +1,14 @@
-### Hi there 👋, Name is Bruno Köppel
+### Hi there 👋, Name is Bruno Köppel (Rodríguez)
 
-- 🔭 Programmer, currently working on a whole lot of things, too many to keep track of.
+- ⚡ Fun Fact: I wrote my first program when I was 14 years old. It was afterschool in my hometown of Cuba where I wrote my first hello world program in C in the Dev-C++ IDE on the computer lab, another fun fact is that they were running ubuntu distros instead of windows :o 
 
-- 👯 Need a tester, a C/C++ specialist, maybe just a buddy for your open source? Well, I'm open to help and collaborate.
-
-- 📫 You can reach me out at my email in this github page, or at my twitter, and LinkedIn. I don't know why you would but you never know.
+- 🔭 I am a Programmer, sometimes a tinkerer. Currently working on a whole lot of projects looking for cool things to build and explore.
 
 - 🎛 I make electronic music -> [Spotify](https://open.spotify.com/artist/6BdSmIpqVam6MashlNUOoK?si=f8mVigR-TQaATPULzTWL-w) 
 
-- ⚡ I wrote my first hello world at 14 years old using C language in Dev-C++ IDE on a Ubuntu Linux system, during my middle school years.
+- 👯 Need a application tester, a C/C++ specialist, maybe just a buddy for your open source? Well, I'm open to help and collaborate!
+
+- 📫 You can reach me out at my email in this github page, at twitter, LinkedIn.
 
 #### Experience
 - 3 years of C
