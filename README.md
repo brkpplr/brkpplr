@@ -1,6 +1,6 @@
 ### Hi there 👋, Name is Bruno Köppel (Rodríguez)
 
-- ⚡ Fun Fact: I wrote my first program when I was 14 years old. It was afterschool in my hometown of Cuba where I wrote my first hello world program in C in the Dev-C++ IDE on the computer lab, another fun fact is that they were running ubuntu distros instead of windows :o 
+- ⚡ Fun Fact: I wrote my first program when I was 14 years old. It was afterschool, in the computer lab of my middle school back in Cuba, when I wrote my first hello world program in C, using the Dev-C++ IDE. Another fun fact is that they were running ubuntu distros in there instead of the usual windows os that other labs had.
 
 - 🔭 I am a Programmer, sometimes a tinkerer. Currently working on a whole lot of projects which you can see in more detail at my [website](http://brunokoppel.com), always looking for cool things to build and explore.
 
