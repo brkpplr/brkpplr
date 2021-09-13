@@ -11,10 +11,10 @@
 - 📫 You can reach me out at my email in this github page, at twitter, LinkedIn.
 
 #### Experience
-- 3 years of C
-- 2 year of C++
-- 1 years of Web Development with js and ts (React, Gatsby, GraphQl, Express, Nx)
-- 1 years of Python
+- 3 years of C/C++
+- 2 years of Full Stack Experience (React, Django, Express, GraphQL, Gatsby, Typescript and Javascript)
+- 2 years of Python
+- 1 year of Java
 
 <!--
 **BrunoKoppel/brunokoppel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
