@@ -4,13 +4,14 @@
 
 - By profession I do programming, but my interests go beyond code. Composing Electronic Music, calculating transformations of 3D objects, simulating any sort of abstract scenerio, these are the beaties of what computers allows to and what I enjoy doing after a long day at work. At [website](http://brunokoppel.com) is where I document some of this things, always looking for cool things to build and explore.
 
-### 💻 Programming Experience
+### Programming 💻 Experience
+
 - 3 years of C/C++
 - 2 years of Full Stack Experience (React, Django, Express, GraphQL, Gatsby, Typescript and Javascript)
 - 2 years of Python
 - 1 year of Java
 
-### 
+### 🎨 Miscellanous 
 
 - 🎛 I make electronic music -> [Spotify](https://open.spotify.com/artist/6BdSmIpqVam6MashlNUOoK?si=f8mVigR-TQaATPULzTWL-w) 
 
