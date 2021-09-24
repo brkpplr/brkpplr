@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Bruno Köppel (Rodríguez) 🙇
 
-- After being born in Cuba, I wrote my first program at the age of 14. It was afterschool in a dark lab built in the corner of my school. Using the Dev-C++ Code Editor in a Ubuntu 10 LTS distro, I wrote the first lines that every programmer gets to write. "Hello Word" appeared in a black screen where a blinking cursor waited for input.
+- After being born in Cuba, I wrote my first program at the age of 14. It was after school in a dark lab built in the corner of my school. Using the Dev-C++ Code Editor in a Ubuntu 10 LTS distro, I wrote the first lines that every programmer gets to write. "Hello Word" appeared on a black screen where a blinking cursor waited for input.
 
-- By profession I do programming, but my interests go beyond code. Composing Electronic Music, calculating transformations of 3D objects, simulating any sort of abstract scenerio, these are the beaties of what computers allows to and what I enjoy doing after a long day at work. At [BrunoKoppel.com](http://brunokoppel.com) is where I document some of this things, always looking for cool things to build and explore.
+- By profession I do programming, but my interests go beyond code. Composing Electronic Music, calculating transformations of 3D objects, simulating any sort of abstract scenario, these are the beauties of what computers allow and what I enjoy doing after a long day at work. At [BrunoKoppel.com](http://brunokoppel.com) is where I document some of these things, always looking for cool things to build and explore.
 
 ### Programming 💻 Experience
 
@@ -11,7 +11,7 @@
 - 2 years of Python
 - 1 year of Java
 
-### 🎨 Miscellanous 
+### 🎨 Miscellaneous 
 
 - 🎛 I make electronic music -> [Spotify](https://open.spotify.com/artist/6BdSmIpqVam6MashlNUOoK?si=f8mVigR-TQaATPULzTWL-w) 
 
