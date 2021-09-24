@@ -1,20 +1,27 @@
-### Hi there 👋, Name is Bruno Köppel (Rodríguez)
+### Hi there 👋, I'm Bruno Köppel (Rodríguez) 🙇
 
-- ⚡ Fun Fact: I wrote my first program when I was 14 years old. It was afterschool, in the computer lab of my middle school back in Cuba, when I wrote my first hello world program in C, using the Dev-C++ IDE. Another fun fact is that they were running ubuntu distros in there instead of the usual windows os that other labs had.
+- After being born in Cuba, I wrote my first program at the age of 14. It was afterschool in a dark lab built in the corner of my school. Using the Dev-C++ Code Editor in a Ubuntu 10 LTS distro, I wrote the first lines that every programmer gets to write. "Hello Word" appeared in a black screen where a blinking cursor waited for input.
 
-- 🔭 I am a Programmer, sometimes a tinkerer. Currently working on a whole lot of projects which you can see in more detail at my [website](http://brunokoppel.com), always looking for cool things to build and explore.
+- By profession I do programming, but my interests go beyond code. Composing Electronic Music, calculating transformations of 3D objects, simulating any sort of abstract scenerio, these are the beaties of what computers allows to and what I enjoy doing after a long day at work. At [website](http://brunokoppel.com) is where I document some of this things, always looking for cool things to build and explore.
+
+### 💻 Programming Experience
+- 3 years of C/C++
+- 2 years of Full Stack Experience (React, Django, Express, GraphQL, Gatsby, Typescript and Javascript)
+- 2 years of Python
+- 1 year of Java
+
+### 
 
 - 🎛 I make electronic music -> [Spotify](https://open.spotify.com/artist/6BdSmIpqVam6MashlNUOoK?si=f8mVigR-TQaATPULzTWL-w) 
 
 - 👯 Need a application tester, a C/C++ specialist, maybe just a buddy for your open source? Well, I'm open to help and collaborate!
 
-- 📫 You can reach me out at my email in this github page, at twitter, LinkedIn.
+- 📫 You can reach me out at
+  - brunokoppel dot dev at gmail.com 
+  - [twitter](https://twitter.com/Brunokoppel)
+  - [LinkedIn](https://www.linkedin.com/in/bruno-koppel)
 
-#### Experience
-- 3 years of C/C++
-- 2 years of Full Stack Experience (React, Django, Express, GraphQL, Gatsby, Typescript and Javascript)
-- 2 years of Python
-- 1 year of Java
+
 
 <!--
 **BrunoKoppel/brunokoppel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
