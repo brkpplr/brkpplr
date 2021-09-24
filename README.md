@@ -2,7 +2,7 @@
 
 - After being born in Cuba, I wrote my first program at the age of 14. It was afterschool in a dark lab built in the corner of my school. Using the Dev-C++ Code Editor in a Ubuntu 10 LTS distro, I wrote the first lines that every programmer gets to write. "Hello Word" appeared in a black screen where a blinking cursor waited for input.
 
-- By profession I do programming, but my interests go beyond code. Composing Electronic Music, calculating transformations of 3D objects, simulating any sort of abstract scenerio, these are the beaties of what computers allows to and what I enjoy doing after a long day at work. At [website](http://brunokoppel.com) is where I document some of this things, always looking for cool things to build and explore.
+- By profession I do programming, but my interests go beyond code. Composing Electronic Music, calculating transformations of 3D objects, simulating any sort of abstract scenerio, these are the beaties of what computers allows to and what I enjoy doing after a long day at work. At [BrunoKoppel.com](http://brunokoppel.com) is where I document some of this things, always looking for cool things to build and explore.
 
 ### Programming 💻 Experience
 
