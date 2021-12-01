@@ -1,40 +1,37 @@
 ### Hi there 👋, I'm Bruno Köppel (Rodríguez) 🙇
 
-- After being born in Cuba, I wrote my first program at the age of 14. It was after school in a dark lab built in the corner of my school. Using the Dev-C++ Code Editor in a Ubuntu 10 LTS distro, I wrote the first lines that every programmer gets to write. "Hello Word" appeared on a black screen where a blinking cursor waited for input.
+## Interest:
+# Music!! 🎛
 
-- By profession I do programming, but my interests go beyond code. Composing Electronic Music, calculating transformations of 3D objects, simulating any sort of abstract scenario, these are the beauties of what computers allow and what I enjoy doing after a long day at work. At [BrunoKoppel.com](http://brunokoppel.com) is where I document some of these things, always looking for cool things to build and explore.
+  - Check out my music by looking up "Zynth Punk" on Google
+  - [Zynth Punk \ Spotify](https://open.spotify.com/artist/6BdSmIpqVam6MashlNUOoK?si=9ZbhaHc9QLOzu756PkC0Fg)
+  - [Zynth Punk \ Apple Music](https://music.apple.com/us/artist/zynth-punk/1527772960)
+  - Zynth Punk at It's out on all platforms out there.
 
-### Programming 💻 Experience
+# Programming
 
-- 3 years of C/C++
-- 2 years of Full Stack Experience (React, Django, Express, GraphQL, Gatsby, Typescript and Javascript)
-- 2 years of Python
-- 1 year of Java
+  - C/C++, Python Programming
+  - Web Dev (Design + Code)
+  - Building APIs and tools to query APIs
+  - Game Dev (Gotta try more often)
+  - 3D and 2D programming (Done a bit)
+ 
+# Visual Art (Recent thing)
+  - 3D animation, and sculpting on Blender
+  - Drawing Digital and Analog
+
+## Fun Facts
+
+  - I grew up in Cuba until I was 17 yo, now-a-days I live in Boston. 
+  - I wrote my first program at the age of 14 during an after School program, and did lots of programming and 3D animation during my final years at Cuba.
 
 ### 🎨 Miscellaneous 
 
-- 🎛 I make electronic music -> [Spotify](https://open.spotify.com/artist/6BdSmIpqVam6MashlNUOoK?si=f8mVigR-TQaATPULzTWL-w) 
+  - 📫 You can reach me out at brunokoppel dot dev at gmail.com or at any of the links below
 
-- 👯 Need a application tester, a C/C++ specialist, maybe just a buddy for your open source? Well, I'm open to help and collaborate!
-
-- 📫 You can reach me out at
-  - brunokoppel dot dev at gmail.com 
-  - [twitter](https://twitter.com/Brunokoppel)
+## Links
+  
+  - [BrunoKoppel.com](http://brunokoppel.com) 
+  - [Instagram](https://www.instagram.com/bruno_koppel/)
+  - [Twitter](https://twitter.com/Brunokoppel)
   - [LinkedIn](https://www.linkedin.com/in/bruno-koppel)
-
-
-
-<!--
-**BrunoKoppel/brunokoppel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
