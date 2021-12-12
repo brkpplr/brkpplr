@@ -3,10 +3,10 @@
 ## Interest:
 # Music!! 🎛
 
-  - Check out my music by looking up "Zynth Punk" on Google
-  - [Zynth Punk \ Spotify](https://open.spotify.com/artist/6BdSmIpqVam6MashlNUOoK?si=9ZbhaHc9QLOzu756PkC0Fg)
-  - [Zynth Punk \ Apple Music](https://music.apple.com/us/artist/zynth-punk/1527772960)
-  - Zynth Punk at It's out on all platforms out there.
+  - I compose Music under the "Zynth Punk" handle
+  - [Linktr.ee for all Zynth Punk Streaming Platforms](https://linktr.ee/zynthpunk)
+  - I do Bass/Vocals at a Hardcore/Thrash band called "Beyond Agitated" 
+  - We are working on our first demo this 2022!
 
 # Programming
 
