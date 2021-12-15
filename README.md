@@ -3,10 +3,8 @@
 ## Interest:
 # Music!! 🎛
 
-  - I compose Music under the "Zynth Punk" handle
-  - [Linktr.ee for all Zynth Punk Streaming Platforms](https://linktr.ee/zynthpunk)
-  - I do Bass/Vocals at a Hardcore/Thrash band called "Beyond Agitated" 
-  - We are working on our first demo this 2022!
+  - I compose and perform my own music under the [Zynth Punk](https://linktr.ee/zynthpunk) handle.
+  - I do Bass/Vocals at a Hardcore/Thrash band called "Beyond Agitated". We are working on our first demo this 2022!
 
 # Programming
 
