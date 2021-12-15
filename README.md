@@ -21,7 +21,7 @@
 ## Fun Facts
 
   - I grew up in Cuba until I was 17 yo, now-a-days I live in Boston. 
-  - I wrote my first program at the age of 14 during an after School program, and did lots of programming and 3D animation during my final years at Cuba.
+  - I wrote my first C program at the age of 14 during an after School program, and worked on programming and 3D animations for the following 3 years in Cuba.
 
 ### 🎨 Miscellaneous 
 
