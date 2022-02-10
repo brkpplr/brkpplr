@@ -2,9 +2,9 @@
 
 Also knonw as bko  =>  [< bko.dev >](https://brunokoppel.dev) 
 
-Music Project  =>  [< zynth_punk >](https://linktr.ee/zynthpunk)
+Music Projects  =>  [< zynth_punk >](https://linktr.ee/zynthpunk)
 
-List of interest  =>  [< Music / Tech / 3D >](./interests.md)
+Other hobbies  =>  [< music / tech / 3d >](./interests.md)
 
 Public Accounts
  - [Twitter](https://twitter.com/Brunokoppel)
