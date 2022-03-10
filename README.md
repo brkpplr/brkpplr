@@ -1,11 +1,13 @@
-### Hi 👋 I'm Bruno Köppel (Rodríguez)
+### Hi 👋 
 
-Also knonw as bko  =>  [< bko.dev >](https://brunokoppel.dev) 
+### name = Bruno Köppel (Rodríguez)
 
-Music Projects  =>  [< zynth_punk >](https://linktr.ee/zynthpunk)
+personal_website  =  [< bko.dev >](https://brunokoppel.dev) 
 
-Other hobbies  =>  [< music / tech / 3d >](./interests.md)
+my_music_persona  =  [zynth_punk](https://linktr.ee/zynthpunk)
 
-Public Accounts
- - [Twitter](https://twitter.com/Brunokoppel)
- - [LinkedIn](https://www.linkedin.com/in/bruno-koppel)
+extra_hobbies  =>  [{coding, 3d_modeling}](./interests.md)
+
+### public_accounts
+ - [twitter](https://twitter.com/Brunokoppel)
+ - [linkedIn](https://www.linkedin.com/in/bruno-koppel)
