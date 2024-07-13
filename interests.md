@@ -2,8 +2,8 @@
   - C/C++, Python Programming
   - Web Dev (Design + Code)
   - Building APIs and tools to query APIs
-  - Game Dev (Gotta try more often)
-  - 3D and 2D programming (Done a bit)
+  - Game Dev
+  - 3D and 2D programming
  
 # Visual Arts
   - PS1 3D graphics
