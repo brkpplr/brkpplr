@@ -14,8 +14,8 @@
 
 # miscellaneous 
   - Video Game Collector
-  - Car Engine Mechanics
-  - Tattoos
+  - Doing my own car repairs
+  - Getting Tattoos
   - Composing and performing my own music
   - I used to play Bass and Guitars at a Hardcore/Thrash band called "Throw", have not played ever since Mid 2023
 
