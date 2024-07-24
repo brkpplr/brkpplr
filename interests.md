@@ -1,16 +1,21 @@
-# Programming
-  - C/C++, Python Programming
-  - Web Dev (Design + Code)
-  - Building APIs and tools to query APIs
-  - Game Dev
-  - 3D and 2D programming
- 
-# Visual Arts
-  - PS1 3D graphics
-  - Blender
-  - Tattoos
+# Fields of Interest
+  - Game Development
+  - 3D & 2D Graphics
+  - Robotics
+  - APIs
+  - Web Apps
+  - 3D Printing
 
-# Music
-  - I compose and perform my own music
-  - I used to play Bass and Guitars at a Hardcore/Thrash band called "Throw"
+# Favorite Programming Languages
+  - C/C++
+  - Python
+  - C#
+  - TypeScript
+
+# miscellaneous 
+  - Video Game Collector
+  - Car Engine Mechanics
+  - Tattoos
+  - Composing and performing my own music
+  - I used to play Bass and Guitars at a Hardcore/Thrash band called "Throw", have not played ever since Mid 2023
 
