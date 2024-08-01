@@ -1,13 +1,10 @@
 # Bruno 
 Title: Software Engineer
-
 Age: 27
-
-Nationality: American
-
+Nationality: Swiss-American
 POB: Havana, Cuba
 
-Bio: Former intern at Boston Dynamics and FormLabs. Currently working full-time for SSNC.
+Former intern at Boston Dynamics and FormLabs. Currently working full-time for SSNC.
 
 Current Focus:
 - Web Apps in React, Vue
