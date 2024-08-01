@@ -3,7 +3,11 @@ Title: Software Engineer
 
 Age: 27
 
-Intro: Former intern at Boston Dynamics and FormLabs. Currently working for SSNC.
+Nationality: American
+
+POB: Havana, Cuba
+
+Bio: Former intern at Boston Dynamics and FormLabs. Currently working full-time for SSNC.
 
 Current Focus:
 - Web Apps in React, Vue
