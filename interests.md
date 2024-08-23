@@ -13,7 +13,7 @@
   - TypeScript
 
 ### miscellaneous 
-  - Video game affionado
+  - Video games (Factorio, WoW, Diablo, RTS, starcraft)
   - getting tattoos
 
 ### fun fact
