@@ -1,4 +1,4 @@
-### Fields of Interest
+### fields of Interest
   - Game Development
   - 3D & 2D Graphics
   - Hardware Electronics
