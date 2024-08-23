@@ -1,4 +1,4 @@
-# Bruno KR
+# Bruno
 Title: Software Engineer\
 Age: 27\
 POB: Havana, Cuba
