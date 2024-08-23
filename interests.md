@@ -1,21 +1,23 @@
-# Fields of Interest
+### Fields of Interest
   - Game Development
   - 3D & 2D Graphics
-  - Robotics
+  - Hardware Electronics
   - APIs
   - Web Apps
   - 3D Printing
 
-# Favorite Programming Languages
+### favorite programming languages
   - C/C++
   - Python
   - C#
   - TypeScript
 
-# miscellaneous 
+### miscellaneous 
   - Video Game Collector
   - Doing my own car repairs
   - Getting Tattoos
-  - Composing and performing my own music
-  - I used to play Bass and Guitars at a Hardcore/Thrash band called "Throw", have not played ever since Mid 2023
+
+### fun Fact
+  - Used to play Bass and Guitars at a Hardcore/Thrash band called "Throw" up until mid 2023
+  - Used to compose and perform my own music under personal alias
 
