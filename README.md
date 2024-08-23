@@ -1,12 +1,11 @@
-# Bruno 
+# Bruno KR
 Title: Software Engineer\
 Age: 27\
-Nationality: American-Swiss\
 POB: Havana, Cuba
 
 Former intern at Boston Dynamics and FormLabs. Currently working full-time for SSNC.
 
-Current Focus:
+Current Career Focus:
 - Web Apps in React, Vue
 - .NET APIs
 
