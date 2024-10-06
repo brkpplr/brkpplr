@@ -1,6 +1,4 @@
 # Bruno
-Title: Software Engineer\
-Age: 27\
 
 Former intern at Boston Dynamics and FormLabs. Currently working full-time for SSNC.
 
