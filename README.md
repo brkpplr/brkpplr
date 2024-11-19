@@ -1,10 +1,6 @@
 # Bruno
 
-Former intern at Boston Dynamics and FormLabs. Currently working full-time for SSNC.
-
-Current Career Focus:
-- Web Apps in React, Vue
-- .NET APIs
+Former employee at Boston Dynamics, FormLabs, and SSNC.
 
 [Overall Interests](/interests.md)
 
