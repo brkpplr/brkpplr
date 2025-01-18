@@ -9,4 +9,5 @@ During my intership at Boston Dynamics, I worked on a 3D Visualizer built using 
 ![1649196458182](https://github.com/user-attachments/assets/acbf2e3b-6198-4bb1-853d-b904f691845f)
 
 [Software Career](/softwareCareer.md)
+
 [About Me](/aboutMe.md)
