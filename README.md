@@ -1,7 +1,3 @@
-# Bruno Koppel
-
-Former employee at Boston Dynamics, FormLabs, and SS&C Technologies.
-
 ## Work Showcase
 
 During my intership at Boston Dynamics, I worked on a 3D Visualizer built using the React Three Fiber framework, written in Typescript. The data was fetched live from Spot through its API, read more on [Spot's Documentation](https://dev.bostondynamics.com/)
