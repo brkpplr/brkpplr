@@ -1,16 +1,12 @@
 # Software Career
 
+## ??? | Full-time | April, 2025 - Present
+
+- .NET, TypeScript, JavaScript, React
+
 ## SS&C Technologies | Full-time | June, 2022 to November, 2024
 
-- Formed part of the SS&C’s Fund Services Portal Team which develops an internal Document Management System
-that allows users to upload documents, and share sensitive data to other users.
-- Collaborated through multiple development cycles to create new features and provide application support with bug
-fixes, and security patches to the REST-based APIs.
-- Contributed to the API Unit Test Suite built using the Java framework TestNG.
-- Optimized former code built in Adobe’s ColdFusion pages, into .NET and Vue 2 (JavaScript).
-- Implemented changes to the data architeture of table schemas in the Microsoft SQL Server Database.
-- Collaborated on creating an internal Common UI framework-agnostic template for SS&C to use across teams with
-different front-end frameworks consolidating teams together.
+- .NET, Vue.js, JavaScript, TypeScript, SQL
 
 ## Formlabs | Internship | January, 2022 to May, 2022
 
@@ -31,6 +27,4 @@ Buffers, and Linux development and debugging.
 
 ## Acquia | Internship | July, 2020 to September, 2020
 
-- Contributed to Acquia’s Unity project software development cycles through an Agile and SCRUM workflow.
-- Implemented React components in Typescript that fetched data from a GraphQL API.
-- Gained experience working with Drupal applications, Next.js, Nx, Docker.
+- Typescript, GraphQL API, Next.js, Nx, Docker.
