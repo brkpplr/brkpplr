@@ -6,7 +6,8 @@
 
 ## SS&C Technologies | Full-time | June, 2022 to November, 2024
 
-- Wrote software for a Document Management System (DMS) used in assets under custody (AUC) in .NET, Vue.js, JavaScript, TypeScript, SQL
+- Wrote software for a business unit (BU) that maintained a Document Management System (DMS) used in assets under custody (AUC) for Fund investments.
+- in .NET, Vue.js, JavaScript, TypeScript, SQL
 
 ## Formlabs | Internship | January, 2022 to May, 2022
 
